@@ -1,0 +1,36 @@
+.link, 
+.return-link {
+    color: blue;
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.return-link:hover {
+    background-color: rgb(170, 239, 252);
+}
+
+.link {
+    background-color: tomato;
+}
+
+.link:hover {
+    background-color: aqua;
+}
+
+.return-link {
+    background-color: aliceblue;
+}
+
+.titles,
+.maintitle {
+    color: rebeccapurple;  
+    font-size: 35px;
+    font-family: Impact;
+    letter-spacing: 1px;
+}
+
+.maintitle {
+    background-color: rgb(176, 176, 182);
+    display: inline-block;
+}
